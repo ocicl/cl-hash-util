@@ -1,0 +1,9 @@
+* cl-hash-util
+
+A small hash utility library for Common Lisp
+
+|---------+--------------------------------------------------------|
+| source  | git:https://github.com/orthecreedence/cl-hash-util.git |
+| commit  | 91d17d3                                                |
+| systems | cl-hash-util                                           |
+|---------+--------------------------------------------------------|
