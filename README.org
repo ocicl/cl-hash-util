@@ -4,6 +4,6 @@ A small hash utility library for Common Lisp
 
 |---------+--------------------------------------------------------|
 | source  | git:https://github.com/orthecreedence/cl-hash-util.git |
-| commit  | e1e065f                                                |
+| commit  | 7f88cb7                                                |
 | systems | cl-hash-util                                           |
 |---------+--------------------------------------------------------|
