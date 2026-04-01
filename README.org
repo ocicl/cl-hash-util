@@ -7,3 +7,4 @@ A small hash utility library for Common Lisp
 | commit  | 7f88cb7                                                |
 | systems | cl-hash-util                                           |
 |---------+--------------------------------------------------------|
+ 
